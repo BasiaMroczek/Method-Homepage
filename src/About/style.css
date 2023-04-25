@@ -1,6 +1,8 @@
 .about__container {
   display: flex;
-  margin: 30px;
+  margin-left: 105px;
+  margin-right: 115px;
+  padding-top: 40px;
 }
 
 .about__image {

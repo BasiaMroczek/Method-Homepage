@@ -11,9 +11,9 @@
 }
 
 .card__imageMain {
-    width: 900px;
-    margin-left: 100px;
-    margin-top: 85px;
+    width: 870px;
+    margin-left: 270px;
+    margin-top: 80px;
     height: auto;
 }
 
@@ -23,10 +23,10 @@
     box-shadow: 2px;
     padding: 20px 40px 40px; 
     text-align: justify;
-    margin-top: -400px;
-    margin-left: 550px;
-    margin-right: 460px;
-    margin-bottom: 90px;
+    margin-top: -420px;
+    margin-left: 730px;
+    margin-right: 480px;
+    margin-bottom: 130px;
     height: auto;
     min-width: 600px;
     width: auto;
