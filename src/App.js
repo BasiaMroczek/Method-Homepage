@@ -3,6 +3,7 @@ import "./style.css";
 import Navigation from "./Navigation/Index";
 import Header from "./Header";
 import About from "./About";
+import Description from "./Description";
 import Gallery from "./Gallery";
 import Contact from "./Contact";
 
@@ -12,6 +13,7 @@ function App() {
       <Navigation />
       <Header />
       <About />
+      <Description />
       <Gallery />
       <Contact />
       <div className="footer">Autorka strony © Barbara Mroczek 2023. Wszystkie prawa zastrzeżone.</div>
