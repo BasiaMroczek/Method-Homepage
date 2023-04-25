@@ -12,7 +12,7 @@
 
 .card__imageMain {
     width: 870px;
-    margin-left: 270px;
+    margin-left: 317px;
     margin-top: 80px;
     height: auto;
 }
@@ -25,13 +25,12 @@
     text-align: justify;
     margin-top: -420px;
     margin-left: 730px;
-    margin-right: 480px;
+    margin-right: 290px;
     margin-bottom: 130px;
     height: auto;
     min-width: 600px;
     width: auto;
     position: relative;
-    text-align: center;
 }
 
 @media (max-width: 647px) {
