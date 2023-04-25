@@ -8,12 +8,17 @@ const Description = () => (
         </div>
         <div className="description__items">
             <div className="description__block">
-                <p>Projekty indywidualne dla Klienta prywatnego</p>
+                <p className="picture__title">Projekty prywatne</p>
                 <img className="description__picture" src="https://i.postimg.cc/8zVD4BQb/Kuchnia23082022-3.jpg" alt="DescriptionImage" />
             </div>
             <div className="description__block">
-                <p>Projekty kompleksowe dla Klienta inwestycyjnego</p>
+                <p className="picture__title">Projekty inwestycyjne</p>
                 <img className="description__picture" src="https://i.postimg.cc/Yqs5wjHP/IMG_1494.jpg" alt="DescriptionImage" />
+            </div>
+            <div className="description__block">
+                <p className="picture__title">Home Staging</p>
+
+                <img className="description__picture" src="https://i.postimg.cc/rp02rJBS/home-2.jpg" alt="DescriptionImage" />
             </div>
         </div>
         <div className="description__content">
