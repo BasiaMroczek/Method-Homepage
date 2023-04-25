@@ -9,7 +9,7 @@
 .description__picture {
     flex: 0 0 calc(33.33% - 5px);
     height: 300px;
-    width: 60%;
+    width: 70%;
     object-fit: cover;
     margin-bottom: 10px;
     padding: 10px;
@@ -68,7 +68,7 @@
     .description__picture {
         flex: 0 0 calc(33.33% - 5px);
         height: 150px;
-        width: 70%;
+        width: 80%;
         object-fit: cover;
         padding: 10px;
     }
