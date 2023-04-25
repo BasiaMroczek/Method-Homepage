@@ -60,6 +60,7 @@ ul {
         margin-bottom: 30px;
         padding: 10px;
         background-color: rgba(235, 235, 235, 0.808);
+        overflow: visible;
     }
 
     li {

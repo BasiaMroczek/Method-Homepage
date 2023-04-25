@@ -3,6 +3,7 @@ import Navigation from "./Navigation/Index";
 import Header from "./Header";
 import About from "./About";
 import Gallery from "./Gallery";
+import Contact from "./Contact";
 
 function App() {
   return (
@@ -11,9 +12,7 @@ function App() {
       <Header />
       <About />
       <Gallery />
-      <div>
-        Polecam
-      </div>
+      <Contact />
     </div>
   );
 }
