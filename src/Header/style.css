@@ -12,7 +12,7 @@
 
 .card__imageMain {
     width: 870px;
-    margin-left: 317px;
+    margin-left: 330px;
     margin-top: 80px;
     height: auto;
 }
@@ -22,9 +22,9 @@
     font-family: 'Raleway', sans-serif;
     box-shadow: 2px;
     padding: 20px 40px 40px; 
-    text-align: justify;
+    text-align: left;
     margin-top: -420px;
-    margin-left: 730px;
+    margin-left: 340px;
     margin-right: 290px;
     margin-bottom: 130px;
     height: auto;
