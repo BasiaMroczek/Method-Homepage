@@ -13,6 +13,7 @@ function App() {
       <About />
       <Gallery />
       <Contact />
+      <div>Stopka</div>
     </div>
   );
 }
