@@ -1,0 +1,24 @@
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+.body {
+  font-family: 'Montserrat', sans-serif;
+  justify-content: center;
+  width: 100% auto;
+  background-color: rgb(235, 235, 235);
+}
+
+
+@media (max-width: 647px) {
+  .body {
+    width: 769px;
+  }
+}
