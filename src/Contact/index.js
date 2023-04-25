@@ -14,7 +14,7 @@ const Contact = () => (
                 <img className="contact__icon" src="https://i.postimg.cc/KcKqjJNY/pngegg-6.png" alt="E-mail icon" />
                 <p>E-mail: <a className="contact__data" href="mailto:method.kontakt@gmail.com">method.kontakt@gmail.com</a></p>
             </div>
-            <div className="social__media"> 
+            <div className="social__media">
                 <p>Zajrzyj w wolnej chwili na moje social media! </p>
                 <a href="https://www.facebook.com/profile.php?id=100086322962115"><img className="contact__icon--social"
                     src="https://i.postimg.cc/VLkNX0J5/pngegg-9.png"
@@ -28,6 +28,7 @@ const Contact = () => (
             </div>
         </div>
     </section>
+
 );
 
 export default Contact;

@@ -55,7 +55,6 @@
     color: black;
     padding: 10px;
 }
-
 @media (max-width: 647px) {
     .contact {
         text-align: center;

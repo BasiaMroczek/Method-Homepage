@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css";
 import Navigation from "./Navigation/Index";
 import Header from "./Header";
 import About from "./About";
@@ -13,7 +14,7 @@ function App() {
       <About />
       <Gallery />
       <Contact />
-      <div>Stopka</div>
+      <div className="footer">Autorka strony © Barbara Mroczek 2023. Wszystkie prawa zastrzeżone.</div>
     </div>
   );
 }
